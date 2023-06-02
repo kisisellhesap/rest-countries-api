@@ -113,6 +113,11 @@ option,
   margin-left: .5rem;
 }
 
+.toggle-theme {
+
+  cursor: pointer;
+}
+
 .input-div,
 .filtered-div,
 .filtered-div select,
